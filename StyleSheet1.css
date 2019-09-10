@@ -1,0 +1,123 @@
+﻿.nav {
+	display: flex;
+	margin-right: 8px;
+	background-color: #FFFFFF;
+	float: right;	
+}
+
+.onglet {
+	font-family: arial, sans-serif; 
+	font-size: 13px;
+	color: black;
+	text-decoration: none;
+	margin-right: 11px;
+	margin-top: 15px;	
+}
+
+#carre {
+	margin-right: 10px;
+	margin-top: 2px;	
+}
+
+#connexion {
+	font-size: 13px;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	height: 20px;
+	width: 50px;
+	text-align: center;
+	margin-top: 8px;
+	margin-right: 16px;
+	padding: 6px 8px 4px 8px;
+	background-color: #4285F4;
+	border-radius: 2px;
+}
+
+#logo {
+	display: flex;
+	margin-left: 241px; 
+	padding-top: 190px;
+	width: 272px;
+	height: 92px;
+}	
+
+#search {
+	width: 560px; 
+	height: 50px;
+	border-radius: 30px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	border: 2px #f2f2f2 solid;
+}
+
+#search:hover {
+	border: 1px solid #f2f2f2;
+}
+#GGSearch,#Lucky {
+	font-size: 13px;
+	font-family: arial, sans-serif;
+	text-decoration: none; 
+	background-color:#f2f2f2;
+	vertical-align: center;
+	margin: 4px;	
+} 
+
+#Lucky {
+	color: rgba(0,0,0,.54);
+	border: 12px #f2f2f2 solid;
+	border-radius: 4px;	
+}
+
+#GGSearch {
+	color: rgba(0,0,0,.54);
+	border: 12px #f2f2f2 solid;
+	border-radius: 4px;	
+}
+
+
+.footer {
+	background-color: #f2f2f2;
+}
+
+.onglet3,#onglet3bis,.onglet4 {
+	font-family: arial, sans-serif; 
+	text-decoration: none;
+	display: flex;
+	float: left;
+	font-size: 13px;
+	margin-top: 290px;
+	color: rgba(0,0,0,.54);
+	background-color: #f2f2f2;
+	}
+
+#onglet2 {
+	font-family: arial, sans-serif; 
+	text-decoration: none;
+	display: flex;
+	float: left;
+	font-size: 14px;
+	margin-top : 250px; 
+	background-color: #f2f2f2;
+}
+
+.onglet3 {
+	float: left; 
+	margin-left: 16px; 
+}
+
+a:hover {
+border-bottom: 1px solid grey;
+
+}
+#onglet3bis {
+	float: left; 
+	margin-left: 5px; 
+}
+.onglet4 {
+	float: right;
+	margin-right : 16px; 
+}
+
+
